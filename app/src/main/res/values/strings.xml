@@ -1,3 +1,23 @@
 <resources>
+
+    <!-- main activity -->
     <string name="app_name">BTVirtualComm</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="button_scan">Search Devices</string>
+    <string name="scanning">Scanning...</string>
+    <string name="select_device">Select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="send">Send</string>
+    <string name="intro_message">hahaha</string>
+    <string name="menu_choose_device">Connect</string>
+    <string name="options_menu">menu</string>
+    <string name="menu_disconnect_current_device">Disconnect</string>
+    <string name="menu_choose_device_secure">Secure Connect</string>
+    <string name="toast_bluetooth_not_available">Bluetooth is not available</string>
+    <string name="title_connected_to">connect to</string>
+    <string name="title_connecting">connecting</string>
+    <string name="title_not_connected">not connected</string>
+    <string name="not_connected">No Device Connected</string>
 </resources>

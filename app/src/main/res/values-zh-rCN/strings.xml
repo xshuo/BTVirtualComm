@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">蓝牙虚拟串口</string>
+    <string name="title_paired_devices">配对设备</string>
+    <string name="title_other_devices">新设备</string>
+    <string name="button_scan">搜索设备</string>
+    <string name="none_paired">没有配对设备</string>
+    <string name="scanning">搜索中...</string>
+    <string name="select_device">选择设备</string>
+    <string name="none_found">没有发现可用设备</string>
+    <string name="send">发送</string>
+    <string name="intro_message">测试app by xshuo</string>
+    <string name="menu_choose_device">连接设备</string>
+    <string name="options_menu">菜单</string>
+    <string name="menu_disconnect_current_device">断开</string>
+    <string name="menu_choose_device_secure">连接安全设备</string>
+    <string name="toast_bluetooth_not_available">蓝牙不可用，请打开蓝牙</string>
+    <string name="title_connected_to">正在连接</string>
+    <string name="title_connecting">连接中</string>
+    <string name="title_not_connected">未连接</string>
+    <string name="not_connected">断线</string>
+</resources>

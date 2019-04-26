@@ -18,11 +18,10 @@ package com.sogou.xshuo.btvirtualcomm.common.logger;
 import android.app.Activity;
 import android.content.Context;
 import android.util.AttributeSet;
-import android.widget.TextView;
 
 /** Simple TextView which is used to output log data received through the LogNode interface.
 */
-public class LogView extends TextView implements LogNode {
+public class LogView extends android.support.v7.widget.AppCompatTextView implements LogNode {
 
     public LogView(Context context) {
         super(context);
